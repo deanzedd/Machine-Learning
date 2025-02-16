@@ -1,1 +1,1 @@
-# T-h-c-ML
+# tự học machine learning
